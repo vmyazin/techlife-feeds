@@ -26,6 +26,21 @@
     <itunes:explicit>no</itunes:explicit>
     
     <!-- начало эпизодов -->
+    
+        <item>
+	    <title>#31: Гнутые телефоны и космос</title>
+	    <itunes:subtitle>Чем новым нас обрадовали лидеры гаджетостроения и частной космонавтики</itunes:subtitle>
+	    <description>
+          <![CDATA[<p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://www.apple.com/ru/shop/product/MRXJ2RU/A/наушники-airpods-в-футляре-с-возможностью-беспроводной-зарядки">Новые Apple AirPods с чипом H1, поддержкой "эй Сири" и беспроводной зарядкой</a></li><li><a href="https://www.apple.com/ru/ipad-mini/">Обновлённый Apple iPad Mini 5</a> и <a href="https://www.apple.com/ru/imac/">Обновлённый iMac</a></li><li><a href="https://www.iphones.ru/iNotes/predstavlen-novyy-standart-usb-4-s-harakteristikami--03-04-2019">Стандарт USB4 подаёт надежды</a></li><li><img src="https://www.techlifepodcast.com/images/techlifepodcast-ep31-spacexdragon.jpg" width="400" height="200"><br><a href="https://vc.ru/future/60046-spacex-vpervye-zapustila-k-mks-pilotiruemyy-korabl-crew-dragon">Удачный полёт нового пилотироемого корабля Space X</a></li><li><a href="https://www.tesla.com/modely">Tesla Model Y</a> (Eng)</li><li><a href="https://amzn.to/2UdbkwM">Амазон Киндл теперь с подсветкой</a> (Eng)</li><li><a href="https://mobiltelefon.ru/post_1551201895.html">Новые дорогущие телефоны со складными экранами</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a><br> и <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a></p>]]>
+        </description>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/595533150-techlifepodcast-epizod-31-gnutye-telefony-i-kosmos.mp3" length="28202024" />
+	    <guid>9bd7bb15-29e0-483b-9c40-f9b36412574f</guid>
+	    <itunes:duration>0:29:12</itunes:duration>
+	    <itunes:explicit>clean</itunes:explicit>
+	    <pubDate>Mon, 25 Mar 2019 00:05:00 EST</pubDate>
+    </item>
+
+    <!-- разделитель эпизодов -->
 
     <item>
 	    <title>#30: Свобода и капитализм</title>
