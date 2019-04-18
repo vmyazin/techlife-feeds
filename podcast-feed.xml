@@ -26,6 +26,21 @@
     <itunes:explicit>no</itunes:explicit>
     
     <!-- начало эпизодов -->
+	   
+        <item>
+	    <title>#32: Имейлы</title>
+	    <itunes:subtitle>Кто читает наши имейлы, мы или алгоритмы и почему</itunes:subtitle>
+	    <description>
+          <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li><a href="http://expert.ru/russian_reporter/2013/11/nikakih-tajn-ot-gmail/">скандал с Gmail в 2013-м году</a></li><li>почему так много людей перешли на Gmail в свое время</li><li>почему мы думаем уйти от всех служб Google</li><li>что делать с Андроидом без сервисов Гугла?</li><li>альтернативные почтовые сервисы и роль имейлов падает? и что это может заметить?</li><li>“если ты не платишь за продукт, то ты и есть продукт”</li><li><a href="http://www.zuckedbook.com/">Книга “Zucked: Waking Up to the Facebook Catastrophe”</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a><br> и <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a></p>]]>
+        </description>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/601927983-techlifepodcast-epizod-32-imeyly.mp3" length="92407936"/>
+	    <guid>5456e119-b512-4cbe-bdba-0fb69abd0f9c</guid>
+	    <itunes:duration>0:38:30</itunes:duration>
+	    <itunes:explicit>clean</itunes:explicit>
+	    <pubDate>Fri, 05 Apr 2019 00:05:00 EST</pubDate>
+    </item>
+
+    <!-- разделитель эпизодов -->
     
         <item>
 	    <title>#31: Гнутые телефоны и космос</title>
