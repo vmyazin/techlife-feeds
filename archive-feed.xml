@@ -32,17 +32,16 @@
     <!-- <atom:link href="https://www.techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" /> -->
 
     <!-- начало эпизодов -->
-
 	   
         <item>
 	    <title>#33: Новая жизнь из-за технологий</title>
 	    <itunes:subtitle>К чему привели нас быстро развивающиеся технологии? Стали ли мы лучше или хуже, как люди?</itunes:subtitle>
 	    <description>
-          <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li>Дима был вынужден провести день без гаджетов, как “аналоговый” или “ламповый” человек</li><li>Нужно ли отказываться от устройств умышлено, хранить ли телефон вне спальни</li><li>Если до тебя нельзя никак достучатся потому что ты периодически отключаешь телефон</li><li>Как разобраться с вредными привычками</li><li>Вася делится светскими казусами связанными с его реакцией на оповещения приходящие на Apple Watch</li><li>мы продолжаем говорить “айпэд”, так уж привыкли</li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a><br>, <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
+          <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li>Дима был вынужден провести день без гаджетов, как “аналоговый” или “ламповый” человек</li><li>Нужно ли отказываться от устройств умышлено, хранить ли телефон вне спальни</li><li>Если до тебя нельзя никак достучатся потому что ты периодически отключаешь телефон</li><li>Как разобраться с вредными привычками</li><li>Вася делится светскими казусами связанными с его реакцией на оповещения приходящие на Apple Watch</li><li>мы продолжаем говорить “айпэд”, так уж привыкли</li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
         </description>
-	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/601927983-techlifepodcast-epizod-32-imeyly.mp3" length="92407936"/>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/611196504-techlifepodcast-episode-33-novaya-zhizn-iz-za-tekhnologiy.mp3" length="32181235"/>
 	    <guid>5a8e7dc7-5fe1-45f1-ae9b-99ce63c5ed66</guid>
-	    <itunes:duration>0:38:30</itunes:duration>
+	    <itunes:duration>0:33:26</itunes:duration>
 	    <itunes:explicit>clean</itunes:explicit>
 	    <pubDate>Thu, 25 Apr 2019 00:05:00 EST</pubDate>
     </item>
