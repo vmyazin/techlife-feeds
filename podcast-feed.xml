@@ -27,6 +27,21 @@
     
 
     <!-- начало эпизодов -->
+	
+	<item>
+	    <title>#34: Цифровая безопасность</title>
+	    <itunes:subtitle>В наше время необходимо хоть немного защищаться, и для этого есть простые правила</itunes:subtitle>
+	    <description>
+          <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li>Правило 1: пароли должны быть непростыми, а также надо иметь их несколько</li><li>Правило 2: Резервные копии</li><li>Привило 3: Не делать очевидных, наивных глупостей. Быть на чеку</li><li>Программы для хранения паролей <a href="https://1password.com/">1Password</a>, <a href="https://www.lastpass.com/">LassPass</a>, <a href="https://www.keepassx.org/">Keepass</a></li><li>Другие шаги для безопасности: шифровка диска, не отправлять пароли в открытом виде, не давать доступ к почте</li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
+        </description>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/622038753-techlifepodcast-episode-34-tsifrovaya-bezopasnost.mp3" length="26293530"/>
+	    <guid>ee1277a3-07ae-45cf-a6e6-2079cf044df2</guid>
+	    <itunes:duration>0:27:12</itunes:duration>
+	    <itunes:explicit>clean</itunes:explicit>
+	    <pubDate>Fri, 17 May 2019 00:05:00 EST</pubDate>
+    </item>
+
+    <!-- разделитель эпизодов -->
 	   
         <item>
 	    <title>#33: Новая жизнь из-за технологий</title>
@@ -42,6 +57,7 @@
     </item>
 
     <!-- разделитель эпизодов -->	   
+	
         <item>
 	    <title>#32: Имейлы</title>
 	    <itunes:subtitle>Кто читает наши имейлы, мы или алгоритмы и почему</itunes:subtitle>
