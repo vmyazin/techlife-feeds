@@ -34,6 +34,36 @@
     <!-- начало эпизодов -->
 	
 	<item>
+	    <title>#36: Шрифты в нашей жизни</title>
+	    <itunes:subtitle>Шрифты это то, как форма букв влияет на смысл слов</itunes:subtitle>
+	    <description>
+          <![CDATA[<p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="http://2ttf.com/">iFontMaker</a></li><li>Димин опыт с созданием шрифтов и его <a href="https://dimka.com/fonts">гарнитуры Зарровв и Слимамиф</a></li><li><a href="https://localfonts.eu/typography-basics/fonts-the-importance-of-localisation/">Ньюансы локализации кириллических шрифтов</a></li><li><a href="https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/">SF Symbols</a></li><li><a href="https://www.hustwit.com/helvetica">Хелветика</a></li><li><a href="https://www.monotype.com/fonts/helvetica-now/">Helvetica Now</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
+        </description>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/642519087-techlifepodcast-episode-36-shrifty-v-nashey-zhizni.mp3" length="32948296"/>
+	    <guid>2f6a46d0-82e3-4ab0-9f97-e626b2741768</guid>
+	    <itunes:duration>0:34:14</itunes:duration>
+	    <itunes:explicit>clean</itunes:explicit>
+	    <pubDate>Wed, 26 Jun 2019 00:05:00 EST</pubDate>
+    </item>
+
+    <!-- разделитель эпизодов -->
+	
+		<item>
+	    <title>#35: Apple слышит</title>
+	    <itunes:subtitle>Прошла конференция разработчиков Apple и теперь вроде как компания нас слышит</itunes:subtitle>
+	    <description>
+          <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://marco.org/2019/06/09/apple-is-listening">Марко Армент: Apple слышит</a></li><li>Новый Мак Про, новый 6К монитор</li><li>Что мы хотим от МакБук Про</li><li><a href="https://amzn.to/2ERkDKa">MagSafe псевдо-замена</a></li><li><a href="https://developer.apple.com/xcode/swiftui/">SwiftUI и Catalist</a></li><li><a href="https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/">SF Symbols</a></li><li><a href="https://anyfont.app/">Anyfont</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
+        </description>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/639028584-techlifepodcast-episode-35-apple-slyshit.mp3" length="30320141"/>
+	    <guid>34c62f8f-fde4-4f58-8f7b-e24ecdec8c7d</guid>
+	    <itunes:duration>0:31:24</itunes:duration>
+	    <itunes:explicit>clean</itunes:explicit>
+	    <pubDate>Wed, 19 Jun 2019 00:05:00 EST</pubDate>
+    </item>
+
+    <!-- разделитель эпизодов -->
+	
+	<item>
 	    <title>#34: Цифровая безопасность</title>
 	    <itunes:subtitle>В наше время необходимо хоть немного защищаться, и для этого есть простые правила</itunes:subtitle>
 	    <description>
