@@ -29,6 +29,21 @@
     <!-- начало эпизодов -->
 	
 	<item>
+	    <title>#37: Что у нас в рюкзаках</title>
+	    <itunes:subtitle>Как пакуем багаж для поездок</itunes:subtitle>
+	    <description>
+          <![CDATA[<p><b>Cсылки к эпизоду:</b></p><ul class="bulleted"><li>Рюкзаки: <a href="https://www.amronintl.com/kelty-redwing-t-44-pack-taa-forest-green-kel-t2615617fg.html">Kelty Redwing 44 Backpack</a> и <a href="https://www.rei.com/product/886304/the-north-face-overhaul-40-pack">Northface Overhaul 40</a></li><li>Батарея <a href="https://www.aukey.com/products/20000mah-power-bank-with-usb-c-lightning-input-pb-y14">Aukey PB-Y14</a></li><li><a href="https://www.theguardian.com/travel/2010/nov/06/my-travels-rolf-potts-without-luggage">Путешествия без багажа, Рольф Поттс</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
+        </description>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/645951711-techlifepodcast-episode-37-chto-u-nas-v-ryukzakakh.mp3" length="35572463"/>
+	    <guid>1e16c4ba-e04e-4f35-a243-994388713abc</guid>
+	    <itunes:duration>0:36:58</itunes:duration>
+	    <itunes:explicit>clean</itunes:explicit>
+	    <pubDate>Thu, 04 Jul 2019 00:05:00 EST</pubDate>
+    </item>
+
+    <!-- разделитель эпизодов -->
+	
+	<item>
 	    <title>#36: Шрифты в нашей жизни</title>
 	    <itunes:subtitle>Шрифты это то, как форма букв влияет на смысл слов</itunes:subtitle>
 	    <description>
