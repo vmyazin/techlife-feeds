@@ -5,7 +5,7 @@
     <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
     <itunes:image href="https://www.techlifepodcast.com/images/techlife-artwork-1400-2019.jpg"/>
     <language>ru</language>
-    <copyright>&#x2117; &amp; &#xA9; 2019 Techlife Syndicate</copyright>
+    <copyright>&#x2117; &amp; &#xA9; 2020 Techlife Syndicate</copyright>
     <link>https://www.techlifepodcast.com</link>
     <image>
       <url>https://www.techlifepodcast.com/images/techlife-artwork-1400-2019.jpg</url>
@@ -27,6 +27,21 @@
     
 
     <!-- начало эпизодов -->
+		
+	<item>
+	    <title>#40: Плюшки с маком</title>
+	    <itunes:subtitle>Можно ли мак купить дешевле, и что ещё можно попробовать</itunes:subtitle>
+	    <description>
+          <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://www.picogear.com/store/picomic-kit-dual/">Беспроводной микрофон PicoMic</a></li><li><a href="https://sixcolors.com/post/2018/03/its-not-quite-a-mac-mini-but-its-my-server/">Хакинтош на основе мини компьютера Intel NUC</a></li><li><a href="http://wiki.osx86project.org/wiki/index.php/Main_Page">wiki.osx86project.org</a></li><li><a href="https://www.samsung.com/ru/apps/samsung-dex/">Система Samsung Dex</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a>, <br><a href="https://open.spotify.com/show/03re4PmocsgPtLBtIxVK4m">Спотифае</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
+        </description>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/739049872-techlifepodcast-techlife-40-plyushki-s-makom.mp3" length="22499584"/>
+	    <guid>94144cc8-b903-46b1-a612-daeb7bf495f8</guid>
+	    <itunes:duration>0:23:21</itunes:duration>
+	    <itunes:explicit>clean</itunes:explicit>
+	    <pubDate>Sun, 5 Jan 2020 00:05:00 EST</pubDate>
+    </item>
+
+    <!-- разделитель эпизодов -->
 		
 	<item>
 	    <title>#39: Ресайклинг</title>
@@ -145,6 +160,8 @@
 	    <itunes:explicit>clean</itunes:explicit>
 	    <pubDate>Fri, 05 Apr 2019 00:05:00 EST</pubDate>
     </item>
+		
+	<!-- далее список архивных эпизодов -->
 
     <!-- разделитель эпизодов -->
     
@@ -154,7 +171,7 @@
 	    <description>
           <![CDATA[<p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://www.apple.com/ru/shop/product/MRXJ2RU/A/наушники-airpods-в-футляре-с-возможностью-беспроводной-зарядки">Новые Apple AirPods с чипом H1, поддержкой "эй Сири" и беспроводной зарядкой</a></li><li><a href="https://www.apple.com/ru/ipad-mini/">Обновлённый Apple iPad Mini 5</a> и <a href="https://www.apple.com/ru/imac/">Обновлённый iMac</a></li><li><a href="https://www.iphones.ru/iNotes/predstavlen-novyy-standart-usb-4-s-harakteristikami--03-04-2019">Стандарт USB4 подаёт надежды</a></li><li><img src="https://www.techlifepodcast.com/images/techlifepodcast-ep31-spacexdragon.jpg" width="400" height="200"><br><a href="https://vc.ru/future/60046-spacex-vpervye-zapustila-k-mks-pilotiruemyy-korabl-crew-dragon">Удачный полёт нового пилотироемого корабля Space X</a></li><li><a href="https://www.tesla.com/modely">Tesla Model Y</a> (Eng)</li><li><a href="https://amzn.to/2UdbkwM">Амазон Киндл теперь с подсветкой</a> (Eng)</li><li><a href="https://mobiltelefon.ru/post_1551201895.html">Новые дорогущие телефоны со складными экранами</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a><br> и <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a></p>]]>
         </description>
-	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/595533150-techlifepodcast-epizod-31-gnutye-telefony-i-kosmos.mp3" length="28202024" />
+	    <enclosure type="audio/mpeg" url="https://www.techlifepodcast.com/Episodes/Techlife-31-Gnutye-telefony-i-kosmos.mp3" length="28202024" />
 	    <guid>9bd7bb15-29e0-483b-9c40-f9b36412574f</guid>
 	    <itunes:duration>0:29:12</itunes:duration>
 	    <itunes:explicit>clean</itunes:explicit>
@@ -169,14 +186,12 @@
 	    <description>
           <![CDATA[<p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><img src="https://www.techlifepodcast.com/images/techlifepodcast-ep30-ayn-rand-atlas-shrugged.jpg" width="200" height="289"><br>Айн Рэнд - Атлант расправил плечи</li><li><a href="https://ru.wikipedia.org/wiki/Либертарианство">Либертарианство</a></li><li><a href="https://ru.wikipedia.org/wiki/Объективизм_по_Айн_Рэнд">Объективизм по Айн Рэнд</a></li><li><a href="https://news.yandex.ru/story/Kandidat_v_prezidenty_SSHA_khochet_razdelit_Google_Amazon_i_Facebook--618429c47d4bfa1e77de98a6cbafd254">Сенатор Уоррен предлагает раздробить Amazon, Facebook, Google и Apple</a></li><li><a href="https://www.rbc.ru/business/07/03/2019/5c8090489a7947038beb4d15">Марк Цукерберг видит будущее соцсетей в большей приватности</a></li><li><a href="https://stratechery.com/2019/facebooks-privacy-cake/">Бен Томпсон пишет про будущее фейсбука и приватность</a> (Eng) и <a href="https://exponent.fm/episode-165-mark-zuckerbergs-projected-self/">рассказывает</a> (Eng)</li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
         </description>
-	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/589353300-techlifepodcast-epizod-30-svoboda-i-kapitalizm.mp3" length="38497244" />
+	    <enclosure type="audio/mpeg" url="https://www.techlifepodcast.com/Episodes/Techlife-30-Freedom-and-capitalism.mp3" length="38497244" />
 	    <guid>35a1ffd6-ede6-485d-8f4d-51c3a13e21ca</guid>
 	    <itunes:duration>0:39:50</itunes:duration>
 	    <itunes:explicit>clean</itunes:explicit>
 	    <pubDate>Wed, 13 Mar 2019 00:05:00 EST</pubDate>
     </item>
-	
-	<!-- далее список архивных эпизодов -->
 
     <!-- разделитель эпизодов -->
 
