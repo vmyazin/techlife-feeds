@@ -34,6 +34,21 @@
     <!-- начало эпизодов -->
 		
 	<item>
+	    <title>#41: Кибертрак</title>
+	    <itunes:subtitle>Насколько Тесла пойдёт</itunes:subtitle>
+	    <description>
+          <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li><img src="https://www.techlifepodcast.com/images/techlifepodcast-ep41-cybertruck.jpg" width="620" height="310"></li><li><a href="https://tesla.com/cybertruck/">Тесла Кибертрак</a> - Официальный сайт</li><li><a href="https://youtube.com/watch?v=9P_1_oLGREM">Видео презентации кибертрака</a></li><li><a href="https://g.co/fi/r/AA7NC9">fi.google.com</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a>, <br><a href="https://open.spotify.com/show/03re4PmocsgPtLBtIxVK4m">Спотифае</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
+        </description>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/754383073-techlifepodcast-episode-41-cybertruck.mp3" length="14771864"/>
+	    <guid>3fc96100-4943-41d0-9651-43f1b140e0a7</guid>
+	    <itunes:duration>0:15:18</itunes:duration>
+	    <itunes:explicit>clean</itunes:explicit>
+	    <pubDate>Sun, 2 Feb 2020 00:05:00 EST</pubDate>
+    </item>
+
+    <!-- разделитель эпизодов -->
+	
+	<item>
 	    <title>#40: Плюшки с маком</title>
 	    <itunes:subtitle>Можно ли мак купить дешевле, и что ещё можно попробовать</itunes:subtitle>
 	    <description>
