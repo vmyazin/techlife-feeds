@@ -27,7 +27,22 @@
     
 
     <!-- начало эпизодов -->
-			
+	<!--		
+	<item>
+	    <title>#42: Дано ли Яндексу предугадать?</title>
+	    <itunes:subtitle>“Как поиск в Яндексе стал еще умнее” со специальным гостем Сергеем Юдиным</itunes:subtitle>
+	    <description>
+          <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li><img src="https://www.techlifepodcast.com/images/techlifepodcast-ep42-skypecall.jpg" width="420" height="254"></li><li><a href="https://yandex.ru">yandex.ru</a></li><li><a href="https://toloka.yandex.ru/">Яндекс Толока</a></li><li><a href="https://www.corpus.ru/products/maks-tegmark-zhizn-3-0-chelovek-ehpoha-iskusstv-intellekta.htm">Макс Тегмарг - Жизнь 3.0</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a>, <br><a href="https://open.spotify.com/show/03re4PmocsgPtLBtIxVK4m">Спотифае</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
+        </description>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/768235954-techlifepodcast-episode-42-yandex.mp3" length="39415601"/>
+	    <guid>8c2fe2aa-4fd4-4b22-849e-cb68a3b69f84</guid>
+	    <itunes:duration>0:41:02</itunes:duration>
+	    <itunes:explicit>clean</itunes:explicit>
+	    <pubDate>Fri, 28 Feb 2020 00:05:00 EST</pubDate>
+    </item>
+    -->
+    <!-- разделитель эпизодов -->
+	
 	<item>
 	    <title>#41: Кибертрак</title>
 	    <itunes:subtitle>Насколько Тесла пойдёт</itunes:subtitle>
@@ -44,7 +59,7 @@
     <!-- разделитель эпизодов -->
 	
 	<item>
-	    <title>#40: Плюшки с маком</title>
+	    <title>#40: Плюшки с Маком</title>
 	    <itunes:subtitle>Можно ли мак купить дешевле, и что ещё можно попробовать</itunes:subtitle>
 	    <description>
           <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://www.picogear.com/store/picomic-kit-dual/">Беспроводной микрофон PicoMic</a></li><li><a href="https://sixcolors.com/post/2018/03/its-not-quite-a-mac-mini-but-its-my-server/">Хакинтош на основе мини компьютера Intel NUC</a></li><li><a href="http://wiki.osx86project.org/wiki/index.php/Main_Page">wiki.osx86project.org</a></li><li><a href="https://www.samsung.com/ru/apps/samsung-dex/">Система Samsung Dex</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a>, <br><a href="https://open.spotify.com/show/03re4PmocsgPtLBtIxVK4m">Спотифае</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
@@ -160,6 +175,8 @@
 	    <itunes:explicit>clean</itunes:explicit>
 	    <pubDate>Thu, 25 Apr 2019 00:05:00 EST</pubDate>
     </item>
+	
+	<!-- далее список архивных эпизодов -->
 
     <!-- разделитель эпизодов -->	   
 	
@@ -169,14 +186,12 @@
 	    <description>
           <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li><a href="http://expert.ru/russian_reporter/2013/11/nikakih-tajn-ot-gmail/">скандал с Gmail в 2013-м году</a></li><li>почему так много людей перешли на Gmail в свое время</li><li>почему мы думаем уйти от всех служб Google</li><li>что делать с Андроидом без сервисов Гугла?</li><li>альтернативные почтовые сервисы и роль имейлов падает? и что это может заметить?</li><li>“если ты не платишь за продукт, то ты и есть продукт”</li><li><a href="http://www.zuckedbook.com/">Книга “Zucked: Waking Up to the Facebook Catastrophe”</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a><br> и <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a></p>]]>
         </description>
-	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/601927983-techlifepodcast-epizod-32-imeyly.mp3" length="92407936"/>
+	    <enclosure type="audio/mpeg" url="https://www.techlifepodcast.com/Episodes/Techlife-32-Imeyly.mp3" length="92407936"/>
 	    <guid>5456e119-b512-4cbe-bdba-0fb69abd0f9c</guid>
 	    <itunes:duration>0:38:30</itunes:duration>
 	    <itunes:explicit>clean</itunes:explicit>
 	    <pubDate>Fri, 05 Apr 2019 00:05:00 EST</pubDate>
     </item>
-		
-	<!-- далее список архивных эпизодов -->
 
     <!-- разделитель эпизодов -->
     
@@ -638,4 +653,4 @@
 
 
   </channel>
-</rss>
+  </rss>
