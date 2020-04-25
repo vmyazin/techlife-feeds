@@ -34,6 +34,21 @@
     <!-- начало эпизодов -->
 				
 	<item>
+	    <title>#44: Творчество как лесной пожар</title>
+	    <itunes:subtitle>Что и как можно делать по-новому</itunes:subtitle>
+	    <description>
+          <![CDATA[<p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://a16z.com/2020/04/18/its-time-to-build/">Марк Андриссен, который сделал браузер Mosaic и статья Время создавать</a></li><li><a href="https://stratechery.com/2020/how-tech-can-build/">Как техсектор может созадавать — Stratechery by Ben Thomposon</a></li><li><a href="https://www.youtube.com/user/Fotki2">Игорь Шойфот на YouTube</a></li><li><a href="https://ru.wikipedia.org/wiki/Automattic">Компания Аутоматтик и Мэтт Мулленвег</a></li><li><a href="https://www.makarovcomedy.com">Михаил Макаров, русский комик в США</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a>, <br><a href="https://open.spotify.com/show/03re4PmocsgPtLBtIxVK4m">Спотифае</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
+        </description>
+	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/807138463-techlifepodcast-episode-44-tvorchestvo-kak-lesnoj-pozhar.mp3" length="33911496"/>
+	    <guid>a4d5d43c-4033-4232-a610-e594b5a36bc9</guid>
+	    <itunes:duration>0:35:18</itunes:duration>
+	    <itunes:explicit>clean</itunes:explicit>
+	    <pubDate>Sat, 25 Apr 2020 00:05:00 EST</pubDate>
+    </item>
+
+    <!-- разделитель эпизодов -->
+				
+	<item>
 	    <title>#43: Корона новой империи</title>
 	    <itunes:subtitle>Гусары ни слова о короне</itunes:subtitle>
 	    <description>
@@ -181,23 +196,23 @@
 	    <pubDate>Fri, 17 May 2019 00:05:00 EST</pubDate>
     </item>
 
-    <!-- разделитель эпизодов -->	
+	<!-- далее список архивных эпизодов -->
+	
+    <!-- разделитель эпизодов -->
 	   
-        <item>
+    <item>
 	    <title>#33: Новая жизнь из-за технологий</title>
 	    <itunes:subtitle>К чему привели нас быстро развивающиеся технологии? Стали ли мы лучше или хуже, как люди?</itunes:subtitle>
 	    <description>
           <![CDATA[<p><b>Заметки к эпизоду:</b></p><ul class="bulleted"><li>Дима был вынужден провести день без гаджетов, как “аналоговый” или “ламповый” человек</li><li>Нужно ли отказываться от устройств умышлено, хранить ли телефон вне спальни</li><li>Если до тебя нельзя никак достучатся потому что ты периодически отключаешь телефон</li><li>Как разобраться с вредными привычками</li><li>Вася делится светскими казусами связанными с его реакцией на оповещения приходящие на Apple Watch</li><li>мы продолжаем говорить “айпэд”, так уж привыкли</li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>,<br><a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>,<br> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90ZWNobGlmZXBvZGNhc3QuY29tL3BvZGNhc3QtZmVlZC54bWw">Гугл подкастах</a> и <a href="https://music.yandex.ru/album/7322142">на Яндекс Музыке</a></p>]]>
         </description>
-	    <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/611196504-techlifepodcast-episode-33-novaya-zhizn-iz-za-tekhnologiy.mp3" length="32181235"/>
+	    <enclosure type="audio/mpeg" url="https://www.techlifepodcast.com/Episodes/Techlife-33-Novaya-zhizn-izza-tehnologij.mp3" length="32181235"/>
 	    <guid>5a8e7dc7-5fe1-45f1-ae9b-99ce63c5ed66</guid>
 	    <itunes:duration>0:33:26</itunes:duration>
 	    <itunes:explicit>clean</itunes:explicit>
 	    <pubDate>Thu, 25 Apr 2019 00:05:00 EST</pubDate>
     </item>
-
-	<!-- далее список архивных эпизодов -->
-
+	
     <!-- разделитель эпизодов -->	   
 	
         <item>
